@@ -10,6 +10,7 @@ Abbreviation
   A short recognizable abbreviation for the group. Could be used as url slug, or tagging a problem's title
   Must be unique
 Created date
+Members [user_id's]
 
 // Virtuals
 View group members' names
