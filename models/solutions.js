@@ -13,6 +13,8 @@ Individual solutions can be endorsed and opposed by users.
 - author_user_id
 - name, text max 140 characters
 - description, text
+- problem_id
+- created, Date
 
 // Virtuals
 - Count endorsements
