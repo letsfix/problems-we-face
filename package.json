@@ -1,0 +1,11 @@
+{
+  "name": "problems-we-face",
+  "version": "0.0.1",
+  "description": "API for Problems We Face db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
+  "license": "ISC"
+}
